@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch"],
+      "matchPackageNames": [
+        "io.wcm.devops:io.wcm.devops.parent_toplevel"
+      ],
+      "automerge": true
+    }
+  ]
+}
