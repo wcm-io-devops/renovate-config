@@ -6,7 +6,8 @@
       "matchPackageNames": [
         "io.wcm.devops:io.wcm.devops.parent_toplevel"
       ],
-      "automerge": true
+      "automerge": true,
+      "addLabels": ["automerge"]
     }
   ]
 }
